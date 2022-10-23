@@ -63,3 +63,9 @@ ul{
 #images img{
     height:100%;
 }
+
+#footer{
+    height:30px;
+    background:rgba(216, 10, 10, 0.737);
+    
+}
